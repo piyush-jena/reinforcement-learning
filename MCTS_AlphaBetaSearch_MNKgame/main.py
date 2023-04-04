@@ -2,8 +2,8 @@ import hydra
 from omegaconf import DictConfig
 import numpy as np
 
-import hw2.mnk_game as mnk
-from hw2.utils import GameStrategy
+import algorithm.mnk_game as mnk
+from algorithm.utils import GameStrategy
 
 @hydra.main(config_path='.', config_name="mnk_configs")
 def main(configs: DictConfig):
