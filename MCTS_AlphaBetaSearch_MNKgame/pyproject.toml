@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "hw2"
+name = "myenv"
 version = "0.1.0"
-description = "COMS 4701 HW2"
+description = "mcts alpha beta pruning"
 authors = ["None"]
 readme = "README.md"
 
