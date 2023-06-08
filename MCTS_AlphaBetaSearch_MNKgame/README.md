@@ -1,4 +1,4 @@
-# COMS W4701 AI HW2 Programming
+# MNK Game - MCTS vs Alpha - Beta Pruning
 
 
 ### Setup
